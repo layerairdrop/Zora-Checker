@@ -2,6 +2,9 @@
 
 Script untuk mengecek alokasi token ZORA untuk multiple address dari file. Tool ini akan membaca address EVM dari file `address.txt` dan mengecek alokasi ZORA token untuk setiap address menggunakan API resmi.
 
+🌐 **Website Checker:**
+ - https://zora-checker.vercel.app/
+
 ## Fitur
 
 - Membaca address dari file teks
@@ -19,8 +22,8 @@ Script untuk mengecek alokasi token ZORA untuk multiple address dari file. Tool 
 
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username/zora-allocation-checker.git
-   cd zora-allocation-checker
+   git clone git@github.com:layerairdrop/Zora-Checker.git
+   cd Zora-Checker
    ```
 
 2. Install dependensi:
