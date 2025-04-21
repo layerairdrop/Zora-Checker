@@ -1,0 +1,14 @@
+{
+    "name": "zora-allocation-checker",
+    "version": "1.0.0",
+    "description": "Script to check ZORA token allocations for multiple addresses",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "chalk": "^5.3.0",
+      "node-fetch": "^3.3.2"
+    }
+  }
